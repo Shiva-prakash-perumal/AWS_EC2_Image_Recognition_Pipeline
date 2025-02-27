@@ -1,12 +1,14 @@
 # AWS Image and Text Recognition Pipeline
 
 ## Programming Assignment 1 - CS643 852: Cloud Computing
-
+<!-- 
 ### Author
 - **Name:** Shiva Prakash Perumal
 - **NJIT ID:** 31620225
 - **UCID:** sp3244
 - **Email:** sp3244@njit.edu
+-->
+
 
 ## Introduction
 This repository provides instructions for setting up an AWS environment and launching a pipeline that runs concurrently on two EC2 instances to perform image and text recognition. The pipeline utilizes the following AWS services:
