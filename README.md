@@ -91,7 +91,3 @@ This repository provides instructions for setting up an AWS environment and laun
 - Outputs results to `out.txt`.
 
 ---
-
-### Contact
-For further queries, contact **sp3244@njit.edu**.
-
